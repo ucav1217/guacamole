@@ -1,0 +1,4 @@
+-   avocados
+-   onion
+-   lime
+-   salt
